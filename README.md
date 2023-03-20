@@ -10,6 +10,8 @@
 
 - NumPy
 
+- Introduction to Pandas
+
 - Boston Housing Exploratory Data Analysis
 
 - California Housing Exploratory Data Analysis
