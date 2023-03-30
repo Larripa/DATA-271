@@ -12,7 +12,7 @@
 
 - Introduction to Pandas
 
-- $\color{blue}{Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data)}$
+- Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data) -- coming soon
 
 - Boston Housing Exploratory Data Analysis
 
