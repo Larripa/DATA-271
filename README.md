@@ -2,22 +2,24 @@
 ### Activities for DATA 271
 
 
-- Data Types and Structures
+- Data Types and Structures (Text from Pride and Predjudice by Jane Austen)
 
-- List and Dictionary Comprehension
+- List and Dictionary Comprehension (Video Game Data from Metacritic)
 
-- Regular Expression
+- Regular Expression (National Center for Biotechnology Information Nucleotide Database from the NIH)
 
-- NumPy
+- NumPy (Image Manipulation with User's Photo)
 
-- Introduction to Pandas
+- Introduction to Pandas (Eviction Data from Princeton's Eviction Lab)
 
-- Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data) 
+- Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data from NOAA) 
 
-- Boston Housing Exploratory Data Analysis
+- Grammar of Graphics (Gapminder Data for Life Expectancy and GDP)
 
-- California Housing Exploratory Data Analysis
+- Boston Housing Exploratory Data Analysis (tutorial)
 
-- Titanic Expoloratory Data Analysis
+- California Housing Exploratory Data Analysis (assignment)
 
-- Spaceship Titanic Exploratory Data Analysis
+- Titanic Expoloratory Data Analysis (tutorial)
+
+- Spaceship Titanic Exploratory Data Analysis (assignment)
