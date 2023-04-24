@@ -14,6 +14,8 @@
 
 - Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data from NOAA) 
 
+- Web Scraping (Senator Data and Country GDP Data)
+
 - Grammar of Graphics (Gapminder Data for Life Expectancy and GDP)
 
 - Boston Housing Exploratory Data Analysis (tutorial)
