@@ -14,6 +14,8 @@
 
 - Using APIs and Cleaning Data (National Centers for Environmental Information Temperature Data from NOAA) 
 
+- Tidy Data (Women in the Workforce Data from Tidy Tuesday)
+
 - Web Scraping (Senator Data and Country GDP Data)
 
 - Grammar of Graphics (Gapminder Data for Life Expectancy and GDP)
