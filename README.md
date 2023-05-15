@@ -27,3 +27,5 @@
 - Titanic Expoloratory Data Analysis (tutorial)
 
 - Spaceship Titanic Exploratory Data Analysis (assignment)
+
+- Final Project Prompt
